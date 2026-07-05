@@ -8,6 +8,9 @@
 <img width="1585" height="172" alt="image" src="https://github.com/user-attachments/assets/5b3d304b-9bfd-429d-836f-7bbe82083840" />
 <img width="1568" height="611" alt="image" src="https://github.com/user-attachments/assets/26898443-477e-4e08-ad83-0f0c7768fe5a" />
 <img width="1572" height="187" alt="image" src="https://github.com/user-attachments/assets/cede5726-a75d-4b5d-9c11-3cff46a133bb" />
+<img width="1587" height="165" alt="image" src="https://github.com/user-attachments/assets/0a8b849c-d239-45e7-a0c1-84a51ae0bf41" />
+<img width="1562" height="677" alt="image" src="https://github.com/user-attachments/assets/a5376cf5-dcda-4133-b437-2bd39f2c19ed" />
+<img width="1571" height="605" alt="image" src="https://github.com/user-attachments/assets/962b3854-0e33-4886-a3df-0a663c3960ec" />
 
 This project is an **AI-powered Resume Review Assistant** that leverages a **Multi-Agent Architecture** to analyze and improve resumes. It helps job seekers optimize their resumes for Applicant Tracking Systems (ATS) and specific job roles by coordinating specialized AI agents to handle formatting, grammar, skills matching, and content enhancement.
 
