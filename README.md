@@ -1,4 +1,13 @@
 # AI-Powered Resume Review Assistant (Multi-Agent System)
+<img width="1918" height="635" alt="image" src="https://github.com/user-attachments/assets/8e2ff385-96a2-4b26-90b7-f8b515cd30b2" />
+<img width="1918" height="635" alt="image" src="https://github.com/user-attachments/assets/7344dec9-1a1f-438a-bbdd-efcd81c26d54" />
+<img width="1912" height="852" alt="image" src="https://github.com/user-attachments/assets/6164c87c-e374-40b1-a9e1-550229bccfee" />
+<img width="1882" height="552" alt="image" src="https://github.com/user-attachments/assets/2daff396-0138-45a2-9689-f81d17567056" />
+<img width="1896" height="645" alt="image" src="https://github.com/user-attachments/assets/6e373500-867f-409c-89ff-1c3408d3f4dd" />
+<img width="1582" height="143" alt="image" src="https://github.com/user-attachments/assets/969d053b-4e33-4db4-9c17-198a173b6c82" />
+<img width="1585" height="172" alt="image" src="https://github.com/user-attachments/assets/5b3d304b-9bfd-429d-836f-7bbe82083840" />
+<img width="1568" height="611" alt="image" src="https://github.com/user-attachments/assets/26898443-477e-4e08-ad83-0f0c7768fe5a" />
+<img width="1572" height="187" alt="image" src="https://github.com/user-attachments/assets/cede5726-a75d-4b5d-9c11-3cff46a133bb" />
 
 This project is an **AI-powered Resume Review Assistant** that leverages a **Multi-Agent Architecture** to analyze and improve resumes. It helps job seekers optimize their resumes for Applicant Tracking Systems (ATS) and specific job roles by coordinating specialized AI agents to handle formatting, grammar, skills matching, and content enhancement.
 
