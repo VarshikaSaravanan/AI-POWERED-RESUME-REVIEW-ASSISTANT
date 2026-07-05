@@ -1,4 +1,4 @@
-# 📄 AI-Powered Resume Review Assistant (Multi-Agent System)
+# AI-Powered Resume Review Assistant (Multi-Agent System)
 
 This project is an **AI-powered Resume Review Assistant** that leverages a **Multi-Agent Architecture** to analyze and improve resumes. It helps job seekers optimize their resumes for Applicant Tracking Systems (ATS) and specific job roles by coordinating specialized AI agents to handle formatting, grammar, skills matching, and content enhancement.
 
